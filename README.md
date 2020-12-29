@@ -1,1 +1,1 @@
-In In the node js application, I use isVisible field. If the user deletes data isVisible will be false. So users can not see the data by using get API. Only a librarian can delete data. But any user can update data.
+In the node js application, I use isVisible field. If the user deletes data isVisible will be false. So users can not see the data by using get API. Only a librarian can delete data. But any user can update data.
